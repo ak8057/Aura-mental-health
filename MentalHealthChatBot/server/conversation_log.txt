@@ -1,0 +1,36 @@
+
+[2024-10-29T06:35:27.646Z]
+User: hey i am feeling very low today can we talk
+Bot: Hi there. I'm really sorry to hear that you're feeling low today. I'm here to listen without judgment. Would you like to tell me a bit more about what's been going on? Remember, I'm here for you, but I'm not a medical professional and can't provide any diagnoses. 😊 
+
+----------------------------------------
+
+[2024-10-29T06:36:07.664Z]
+User: i had a very bad day today and it always happens with although i dont bother anyone
+Bot: I understand. It sounds like you're dealing with a lot right now, and it's tough when you feel like bad days are piling up.  You mentioned that you don't bother anyone – it's important to remember that your feelings are valid, and it's okay to reach out for support when you're struggling. 
+
+Can you tell me a little more about what happened today that made it feel so bad? Sharing your thoughts and feelings can often help, even if it just means getting things off your chest. 
+
+----------------------------------------
+
+[2024-10-29T06:37:11.946Z]
+User: Even after working so hard i still lost in my hackathon , i feel like a failure
+Bot: That sounds incredibly frustrating and disappointing.  It's completely understandable that you'd feel like a failure after pouring your effort into this hackathon.  Remember that setbacks are a part of life, especially in competitive fields. 
+
+It's important to acknowledge your hard work and dedication, even if the outcome wasn't what you hoped for. Can you tell me a little bit about what you learned from this experience? Perhaps there were some positive takeaways or skills you developed along the way. 
+
+If you're open to it, I'd also be happy to discuss some coping strategies for dealing with disappointment and negative self-talk.  Would you be interested in exploring that with me?  
+
+----------------------------------------
+
+[2024-10-29T06:38:02.396Z]
+User: I m sorry i m super depressed i dont feel like talking
+Bot: It's okay. I understand you're feeling super depressed and don't feel like talking right now.  Sometimes, just acknowledging those feelings can be a step in the right direction.  
+
+It takes a lot of courage to admit when you're struggling. Please know that I'm here for you, even if you don't feel like talking right now.  Remember, you don't have to go through this alone. 
+
+If you're comfortable, I'm happy to just sit here with you virtually.  Or, if you'd prefer, we could try a different activity like some simple breathing exercises.  Just let me know what feels right for you at this moment. 
+
+And please remember, if you're feeling overwhelmed or like you might be a danger to yourself, please reach out to a crisis hotline or mental health professional immediately. You can find some helpful resources here: [List of resources].  You're not alone, and there is help available. 
+
+----------------------------------------
